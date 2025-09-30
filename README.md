@@ -1,10 +1,4 @@
 ## Hi there 👋
-
-
-**Octaflick/Octaflick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on A minor project for shop listings
 - 🌱 I’m currently learning Python, JS, HTML & CSS
 - 👯 I’m looking to collaborate in Hacktoberfest

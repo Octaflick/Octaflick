@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on A minor project for shop listings
-- 🌱 I’m currently learning Python, JS, HTML & CSS
+- 🌱 I’m currently learning JS
 - 👯 I’m looking to collaborate in Hacktoberfest
 - 🤔 I’m looking for help with JS
 - 💬 Ask me about Python

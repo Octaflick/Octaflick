@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🔭 I’m currently working on minor projects
-- 🌱 I’m currently learning JS
-- 💬 Ask me about Python, HTML, CSS
+- 🌱 I’m currently learning React
+- 💬 Ask me about Python, HTML, CSS,JS
 - 📫 How to reach me: vedanttapkir@gmail.com | Discord - vedanttapkir#9790
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a Hacktoberfest Supercontributor
